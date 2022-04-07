@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-ffri-k0hp_4q0y%u)t=2xsroahoe!9(l9&37c9v0(+8!touf4i
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','lovechat.herokuapp.com/']
 
 
 # Application definition
