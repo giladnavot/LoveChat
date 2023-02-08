@@ -2,14 +2,14 @@
 id: y1m1y
 title: hello
 file_version: 1.1.1
-app_version: 1.1.0
+app_version: 1.1.2
 ---
 
 <br/>
 
 <br/>
 
-this is a snippet
+this is a snippet gilad
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 manage.py
 ```python
